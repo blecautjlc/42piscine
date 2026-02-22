@@ -6,7 +6,7 @@
 /*   By: juliopestana <juliopestana@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/02/21 20:55:49 by juliopestan       #+#    #+#             */
-/*   Updated: 2026/02/21 23:21:54 by juliopestan      ###   ########.fr       */
+/*   Updated: 2026/02/22 00:17:09 by juliopestan      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,6 @@ void	ft_rev_int_tab(int *tab, int size)
 {
 	int	i;
 	int	temp;
-	int	j;
 
 	i = 0;
 	while (i < (size - 1))
