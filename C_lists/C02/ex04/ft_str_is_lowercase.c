@@ -6,7 +6,7 @@
 /*   By: juliopestana <juliopestana@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/02/26 17:57:50 by juliopestan       #+#    #+#             */
-/*   Updated: 2026/02/26 18:05:27 by juliopestan      ###   ########.fr       */
+/*   Updated: 2026/02/27 17:26:10 by juliopestan      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,7 +24,7 @@ int	ft_str_is_lowercase(char *str)
 	return (1);
 }
 
-#include <stdio.h>
+/*#include <stdio.h>
 
 int	main(void)
 {
@@ -36,4 +36,4 @@ int	main(void)
 	printf("Misturada  --> %d\n", ft_str_is_lowercase(str1));
 	printf("Pura       --> %d\n", ft_str_is_lowercase(str2));
 	return (0);
-}
+}*/
